@@ -1,3 +1,3 @@
 # Angular Build Architect for ng-packagr
 
-WIP
+This package has been deprecated. Please use `NgPackagrBuilderOptions` from `@angular-devkit/build-angular` instead.
